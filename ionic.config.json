@@ -1,0 +1,7 @@
+{
+  "name": "SciVR_react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
